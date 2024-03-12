@@ -1,0 +1,192 @@
+https://codeshare.io/marcos000
+
+
+
+
+   cd marcos/
+     ls
+     git init
+     git config --global user.name "sakit333"
+     git config --global user.email "sak528264@gmail.com"
+     git config --list
+     ls
+     cat sample.txt
+     git status
+     git add sample.txt
+     git status
+     git commit -m "first commit"
+     git log
+     git remote -v
+     git remote add origin https://github.com/sakit333/marcos.git
+     git remote -v
+     git push -u origin master
+     git status
+    git add sample.txt
+     git status
+   git commit -m "second commit"
+   git log
+     git remote -v
+     git log
+     git push origin master
+     git status
+     git add .
+     git status
+     git commit -m "v1.1.3"
+     git log
+     git log --oneline
+     git status
+     git add .
+     git status
+     git commit -m "v1.1.4"
+     git log --oneline
+     git push origin master
+----------------------------------------------
+https://codeshare.io/marcos000
+
+
+
+
+   cd marcos/
+     ls
+     git init
+     git config --global user.name "sakit333"
+     git config --global user.email "sak528264@gmail.com"
+     git config --list
+     ls
+     cat sample.txt
+     git status
+     git add sample.txt
+     git status
+     git commit -m "first commit"
+     git log
+     git remote -v
+     git remote add origin https://github.com/sakit333/marcos.git
+     git remote -v
+     git push -u origin master
+     git status
+     git add sample.txt
+     git status
+     git commit -m "second commit"
+     git log
+     git remote -v
+     git log
+     git push origin master
+     git status
+     git add .
+    git status
+     git commit -m "v1.1.3"
+     git log
+     git log --oneline
+     git status
+     git add .
+     git status
+     git commit -m "v1.1.4"
+     git log --oneline
+     git push origin master
+  git init
+     pwd
+     ls
+     echo "welcome to DevOps"
+     ls
+     touch sample.txt
+     ls
+     vi sample.txt
+   ls
+    cat sample.txt
+    rm -rf sample.txt
+    ls
+    echo "m1" >> sample.txt
+    ls
+    cat sample.txt
+    ls
+    rm -rf *
+    ls
+    echo "m1" >> sample.txt
+   ls
+    cat sample.txt
+    git status
+    git add .
+    git status
+    git commit -m "m1"
+    git config --list
+    git log
+    git log --oneline
+    git remote -v
+    git remote add origin https://github.com/sakit333/marcos.git
+    git remote -v
+    git push origin master
+    ls
+    cat sample.txt
+    echo "m2" >> sample.txt
+    ls
+   cat sample.txt
+    git status
+    git add .
+    git status
+    git commit -m "m2"
+    git push origin master
+    git log --oneline
+    echo "m3" >> sample.txt
+    git add .
+    git commit -m "m3"
+    echo "m4" >> sample.txt
+    git add .
+    git commit -m "m4"
+    git log --oneline
+    echo "bugs" >> sample.txt
+    cat sample.txt
+    git status
+    git add .
+    git status
+    git reset sample.txt
+    git status
+    cat sample.txt
+    git checkout sample.txt
+    cat sample.txt
+    echo "m5 bugs" >> sample.txt
+    git status
+    git add .
+    git status
+    git commit -m "m5"
+    git log --oneline
+    git reset -help
+    git log --oneline
+    git reset --hard HEAD~1
+    git log --oneline
+    cat sample.txt
+    echo "loo testing" >> sample.txt
+    cat sample.txt
+    git add .
+    git commit -m "m5"
+    git log --oneline
+    git reset --soft HEAD~1
+    git log --oneline
+    cat sample.txt
+    git log --oneline
+    git reset --hard HEAD~1
+    git log --oneline
+    cat sample.txt
+    echo "m4" >> sample.txt
+    git add .
+    git commit -m "m4"
+   git log --oneline
+    echo "m5" >> sample.txt
+    git add .
+    git commit -m "m5"
+    git log --oneline
+    git branch
+    git branch dev
+    git branch
+    git branch
+    git switch dev
+    ls
+    cat sample.txt
+    echo "d1" >> sample.txt
+    ls
+    cat sample.txt
+    git log --oneline
+    git add .
+    git status
+    git commit -m "d1"
+    git log --oneline
+    git push origin dev
